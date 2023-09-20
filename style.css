@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&display=swap');
+
+body {
+    background-color: transparent;
+    background-image: url("background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+cite {
+    display: block;
+}
+
+a:link, a:visited {
+    color: #ffffff;
+}
+
+.card {
+    background-color: #579e65 !important;
+    color: #ffffff !important;
+}
+
+.row {
+    display: flex;
+}
+
+.col {
+    flex: 1;
+}
+
+.logo {
+    max-width: 15% !important;
+}
+
+.logo-holoshiatsu {
+    max-width: 25% !important;
+}
+
+.qrcode {
+    max-width: 25% !important;
+}
+
+.body-left {
+    font-family: cursive;
+    font-size: 1.8rem;
+}
+
+.title-center {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 3rem;
+}
+
+.subtitle-center {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+.body-center {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.2rem;
+}
+
+.title-right {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 3rem;
+}
+
+.subtitle-right {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+.body-right {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.2rem;
+}
